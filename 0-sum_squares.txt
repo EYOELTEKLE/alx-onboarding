@@ -1,0 +1,20 @@
+function Sum(argument1,argument2)
+{
+
+calculates squares of argument1 and argument2
+return sum of the arguments
+
+
+}
+{
+Print Prompt "Input two Numbers"
+
+Take first Number
+Take Second Number
+
+call function Sum
+
+
+
+
+}

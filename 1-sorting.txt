@@ -1,0 +1,17 @@
+function Sort(num1,num2,num3)
+{
+put items on the list
+call store method on the list and store it
+return the stored value
+
+}
+{
+main funciton
+
+input prompt "Enter numbers"
+take first number
+take second number
+take third number
+call sort method
+
+}

@@ -1,0 +1,19 @@
+{
+---main function----
+while loop
+{
+  take number from user
+  check if number > 0
+   if true then add sum to it
+   print the sum variable
+   if false break the loop
+
+
+
+
+}
+
+
+
+
+}
